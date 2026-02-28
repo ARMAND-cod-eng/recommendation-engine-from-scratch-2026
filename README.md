@@ -2,6 +2,7 @@
 
 ![Dashboard](recsys_dashboard_2026.png)
 
+[![Medium](https://img.shields.io/badge/Medium-black?logo=Medium)](https://medium.com/@notuearmand250/i-built-netflixs-algorithm-from-scratch-and-the-results-surprised-me-dc2f52eba1c2)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/armandjunior/recommendation-engine-from-scratch-amazon-fine-f)
 [![Python](https://img.shields.io/badge/Python-3.11-green?logo=python)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue?logo=numpy)](https://numpy.org)
