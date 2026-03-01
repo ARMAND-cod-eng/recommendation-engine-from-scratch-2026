@@ -127,6 +127,3 @@ with attribution.
 *Dataset: [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 (SNAP, Kaggle)*
 ```
-
-Click **Commit changes**.
-
